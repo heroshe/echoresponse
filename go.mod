@@ -1,4 +1,4 @@
-module github.com/jcobhams/echoresponse
+module github.com/heroshe/echoresponse
 
 go 1.14
 
